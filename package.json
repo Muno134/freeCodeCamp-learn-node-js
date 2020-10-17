@@ -1,6 +1,6 @@
 {
-	"author": "Kolya Rivz",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Kolya Rivz",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
